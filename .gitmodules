@@ -1,0 +1,3 @@
+[submodule "services/service2_dir"]
+	path = services/service2_dir
+	url = https://github.com/MarkT5/test_service2.git
